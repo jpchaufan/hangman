@@ -1,0 +1,28 @@
+	
+body, html {
+	background: lightblue;
+}
+h1 {
+	margin: .2em;
+}
+
+header, main {
+	text-align: center;
+	font-size: 1.2em;
+	background: forestgreen;
+	padding: 1em;
+	width: 90%;
+	max-width: 600px;
+	margin: 10px auto;
+	border-radius: 50px;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-o-border-radius: 50px;
+}
+.new_game {
+	float: right;
+}
+.warning {
+	color: firebrick;
+	font-weight: bold;
+}
